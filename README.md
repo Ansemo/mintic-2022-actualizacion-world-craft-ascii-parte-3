@@ -1,8 +1,10 @@
-# RETO 3: POBLANDO AL WORLDCRAFT ASCII <h1>!OJO EL CODIGO AUN NO ESTA TERMINADO, ESTAR ATENTO A ACTUALIZACIONES!</h1>
+# RETO 3: POBLANDO AL WORLDCRAFT ASCII
+![image](https://user-images.githubusercontent.com/104838545/169629324-457d4f08-4323-4438-a8f1-2a867d1b59a3.png)
+![image](https://user-images.githubusercontent.com/104838545/169629329-e3d6574a-6af7-4cb8-a21b-a4a2d3034d6a.png)
+![image](https://user-images.githubusercontent.com/104838545/169629334-cb28e4e1-c81d-4169-afda-dcac9800abba.png)
+![image](https://user-images.githubusercontent.com/104838545/169629343-6761f83a-e9a2-452d-b5f6-c76f4741ea1b.png)
 
 
-![image](https://user-images.githubusercontent.com/104838545/169082647-91d8f947-dc7c-49ba-b115-6740cd39e1de.png)
-![image](https://user-images.githubusercontent.com/104838545/169082599-2c26b9c1-393d-4397-bbb7-e57f9429e4b5.png)<br>
 
 Este reto se trata de implementar un programa que permita poblar al mundo WorldCraft ASCII.
 <h1>RACIÓN DE CRIATURAS</1>
