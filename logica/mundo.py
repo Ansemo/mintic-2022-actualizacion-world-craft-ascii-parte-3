@@ -55,7 +55,7 @@ def insertar_creaturas_mapa(matriz,creaturas_generadas):
 
 def insertar_jugador_mapa(matriz,jugador):
     cordenadas = []
-    cordenadas.append(((jugador["Fila"], jugador["Columna"]), '&'))
+    cordenadas.append(((jugador["Fila"], jugador["Columna"]), '█'))
     insertar_creaturas(matriz, cordenadas[0][0], cordenadas[0][1], 'Jugador')
     return matriz
 
