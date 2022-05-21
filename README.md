@@ -1,9 +1,12 @@
 # RETO 3: POBLANDO AL WORLDCRAFT ASCII
+si te es util agradeceria que me dejaras una estrella<br>
+![image](https://user-images.githubusercontent.com/104838545/169637406-591b1995-698a-470b-b425-3790f2f342fe.png)<br>
+
 ![image](https://user-images.githubusercontent.com/104838545/169629324-457d4f08-4323-4438-a8f1-2a867d1b59a3.png)
 ![image](https://user-images.githubusercontent.com/104838545/169629329-e3d6574a-6af7-4cb8-a21b-a4a2d3034d6a.png)
 ![image](https://user-images.githubusercontent.com/104838545/169629334-cb28e4e1-c81d-4169-afda-dcac9800abba.png)
 ![image](https://user-images.githubusercontent.com/104838545/169629343-6761f83a-e9a2-452d-b5f6-c76f4741ea1b.png)
-Si quieren usarlo en repli colocar código principal en archivo main y crear una carpeta con el nombre de lógica conde irán guardado el resto de archivos .py <br>
+Si quieren usarlo en repli colocar código principal en archivo main y crear una carpeta con el nombre de logica donde debes guardar el resto de archivos .py <br>
 ![image](https://user-images.githubusercontent.com/104838545/169629612-98015990-3a07-4e38-a656-dcac2cf05726.png)
 
 
